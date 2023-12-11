@@ -26,16 +26,4 @@ To get started with this project:
 
 The Stacking Ensemble model (`stacking_ensemble_model.pkl`) is the final model chosen due to its high accuracy and robustness. The model, along with the `tfidf_vectorizer_final.pkl`, can be deployed for sentiment analysis tasks.
 
-## Contributing
 
-If you would like to contribute to this project, please fork the repository and submit a pull request with your suggested changes.
-
-## License
-
-This project is released under the MIT License. See the `LICENSE` file for more information.
-
-## Questions?
-
-If you have any questions or encounter any issues, please feel free to open an issue in this repository.
-
-Thank you for checking out our project on sentiment analysis of airline tweets!
